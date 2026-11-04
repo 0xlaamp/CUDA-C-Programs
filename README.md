@@ -65,6 +65,8 @@ En Windows, el ejecutable será `programa.exe`.
 | Programa | Descripción |
 |----------|-------------|
 | sumaVectores | Introduccion al modelo de programacion en CUDA paralelizando la suma de vectores |
+| sumaMatrices | Paralelizacion de la suma matricial en memoria contigua utilizando CUDA |
+| cifradoCesar | Paralelizacion de el algortimo cifrado cesar utilizando CUDA |
 
 ## Contribuciones
 
