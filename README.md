@@ -64,9 +64,14 @@ En Windows, el ejecutable será `programa.exe`.
 
 | Programa | Descripción |
 |----------|-------------|
-| sumaVectores | Introduccion al modelo de programacion en CUDA paralelizando la suma de vectores |
-| sumaMatrices | Paralelizacion de la suma matricial en memoria contigua utilizando CUDA |
-| cifradoCesar | Paralelizacion de el algortimo cifrado cesar utilizando CUDA |
+| sumaVectores  | Introduccion al modelo de programacion en CUDA paralelizando la suma de vectores |
+| sumaMatrices  | Paralelizacion de la suma matricial en memoria contigua utilizando CUDA |
+| cifradoCesar  | Paralelizacion de el algortimo cifrado cesar utilizando CUDA |
+| fma           | Calcula D[i] = A[i] * B[i] + C[i] con 2²⁴ elementos y un hilo por elemento |
+| senoCoseno    | Calcula sinf y cosf cobre angulos aleatorios entre 0 y 2π. |
+| escalarMatriz | Multiplica una matriz por un escalar usando coordenadas 2D. |
+| contraste     | Multiplica los valores de los pixeles de una imagen por un factor de contraste constante. |
+
 
 ## Contribuciones
 
